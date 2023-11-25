@@ -1,4 +1,4 @@
-#import "../naturelike.typ": *
+#import "naturelike.typ": *
 #show: naturelike.with(
   title: lorem(10),
   article_type: "Preprint",
@@ -23,7 +23,7 @@
       affiliation: ("Esquerra Republicana de Catalunya (ERC)")
     ),
   ),
-  bibliography-file: "example/refs.bib",
+  bibliography-file: "refs.bib",
 )
 
 = Introduction

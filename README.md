@@ -6,10 +6,11 @@ the template also
 handles author afilitiations (and hopefully in the future correspondence).
 
 See below for a quick look and check the examples in
-[`example/main.typ`](example/main.typ) on how to use it. 
+[`main.typ`](main.typ) on how to use it. 
 
-<img src="image.png"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:30%">
+<p align="center">
+  <img width="350" src="image.png">
+</p>
 
 ## Usage
 
